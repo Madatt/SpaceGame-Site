@@ -105,8 +105,13 @@ header {
 	margin-right: 30px;
 }
 
+@font-face {
+  font-family: SpaceText;
+  src: url($logo-font);
+}
+
 .page_text {
-	src: url($logo-font);
+	font-family:SpaceText;
         
 }
 
