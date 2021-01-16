@@ -105,6 +105,10 @@ header {
 	margin-right: 30px;
 }
 
+.page_text {
+	src: url(assets/font.ttf);
+}
+
 .logo > p {
 	color: $header-title-color;
 	white-space: nowrap;
