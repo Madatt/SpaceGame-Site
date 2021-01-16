@@ -106,7 +106,8 @@ header {
 }
 
 .page_text {
-	src: url(assets/font.ttf);
+	src: url($logo-font);
+        
 }
 
 .logo > p {
