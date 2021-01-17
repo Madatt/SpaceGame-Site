@@ -58,6 +58,9 @@ features                                  :
     description                           : Tilt controls.
     fontawesome_icon_name                 : gamepad
 
+  - title                                 : Options
+    description                           : Customize your skin and health.
+    fontawesome_icon_name                 : cog
 
 # Theme Settings
 topbar_color                              : "#000000"
