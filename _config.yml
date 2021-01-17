@@ -50,7 +50,7 @@ features                                  :
     description                           : Built upon LibGDX.
     fontawesome_icon_name                 : code-branch
 
-  - title                                 : LibGDX
+  - title                                 : Graphics
     description                           : Beautiful graphics.
     fontawesome_icon_name                 : paint-brush
 
